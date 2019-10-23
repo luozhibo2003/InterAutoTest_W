@@ -32,7 +32,7 @@ class Mysql:
         self.cursor.execute(sql)
         return self.cursor.fetchall()
 
-    def exec(self, sql):
+    def exesql(self, sql):
         try:
             if self.conn and self.cursor:
                 self.cursor.execute(sql)
