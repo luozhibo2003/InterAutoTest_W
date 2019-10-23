@@ -28,11 +28,11 @@ class Mysql:
         self.cursor.execute(sql)
         return self.cursor.fetchone()
 
-    def fetchall(self,sql):
+    def fetchall(self, sql):
         self.cursor.execute(sql)
         return self.cursor.fetchall()
 
-    def exec(self,sql):
+    def exec(self, sql):
         try:
             if self.conn and self.cursor:
                 self.cursor.execute(sql)
@@ -50,6 +50,7 @@ class Mysql:
         if self.conn is not None:
             self.conn.close()
 
+
 if __name__ == '__main__':
     mysql = Mysql(
         "211.103.136.242",
@@ -61,7 +62,6 @@ if __name__ == '__main__':
 
     res = mysql.fetchall("select username,password from tb_users")
     print(res)
-
 
 """
 
