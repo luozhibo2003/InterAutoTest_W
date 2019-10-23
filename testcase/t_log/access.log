@@ -1,0 +1,5 @@
+2019-10-22 09:56:57,513 - root - INFO - log_demo3:luobotou消费了300
+2019-10-22 09:56:57,514 - root - DEBUG - log_demo3:luobotou消费了300
+2019-10-22 09:56:57,514 - root - WARNING - log_demo3:luobotou消费了300
+2019-10-22 09:56:57,514 - root - ERROR - log_demo3:luobotou消费了300
+2019-10-22 09:56:57,514 - root - CRITICAL - log_demo3:luobotou消费了300

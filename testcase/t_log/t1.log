@@ -1,0 +1,8 @@
+2019-10-22 10:15:31 AM - bank - ERROR - log_demo4:123
+2019-10-22 10:15:31 AM - bank - CRITICAL - log_demo4:123
+2019-10-22 10:16:14 AM - bank - ERROR - log_demo4:123
+2019-10-22 10:16:14 AM - bank - CRITICAL - log_demo4:123
+2019-10-22 10:17:43 AM - bank - ERROR - log_demo4:123
+2019-10-22 10:17:43 AM - bank - CRITICAL - log_demo4:123
+ERROR - 2019-10-22 10:18:47 AM - bank -  log_demo4:123
+CRITICAL - 2019-10-22 10:18:47 AM - bank -  log_demo4:123

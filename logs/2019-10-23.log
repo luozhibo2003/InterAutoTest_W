@@ -1,0 +1,17 @@
+2019-10-23 08:39:57,316 AssertUtil ERROR 不包含或者body是错误，body is "{'non_field_errors': ['\u65e0\u6548\u6570\u636e\u3002\u671f\u5f85\u4e3a\u5b57\u5178\u7c7b\u578b\uff0c\u5f97\u5230\u7684\u662f str \u3002']}",expected_body is 无效数据。期待为字典类型 
+2019-10-23 08:40:04,436 AssertUtil ERROR 不包含或者body是错误，body is "{'username': ['\u8be5\u5b57\u6bb5\u4e0d\u80fd\u4e3a\u7a7a\u3002']}",expected_body is username': ['该字段不能为空。'] 
+2019-10-23 08:40:05,497 AssertUtil ERROR 不包含或者body是错误，body is "{'username': ['\u8be5\u5b57\u6bb5\u4e0d\u80fd\u4e3a\u7a7a\u3002'], 'password': ['\u8be5\u5b57\u6bb5\u4e0d\u80fd\u4e3a\u7a7a\u3002']}",expected_body is password': ['该字段不能为空。'] 
+2019-10-23 08:40:06,699 AssertUtil ERROR 不包含或者body是错误，body is "{'user_id': 1, 'token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6Ijk1MjY3MzYzOEBxcS5jb20iLCJ1c2VyX2lkIjoxLCJ1c2VybmFtZSI6InB5dGhvbiIsImV4cCI6MTU3MTg3NzU4OH0.WE2WsdJEVgD8lFirr1m66u6i7ry2FRW6EXmaUf28-2o', 'username': 'python'}",expected_body is user_id': 1, 'username': 'python' 
+2019-10-23 08:40:06,869 AssertUtil ERROR 不包含或者body是错误，body is "{'non_field_errors': ['\u65e0\u6cd5\u4f7f\u7528\u63d0\u4f9b\u7684\u8ba4\u8bc1\u4fe1\u606f\u767b\u5f55\u3002']}",expected_body is 无法使用提供的认证信息登录 
+2019-10-23 08:40:06,946 AssertUtil ERROR 不包含或者body是错误，body is "{'detail': '\u8eab\u4efd\u8ba4\u8bc1\u4fe1\u606f\u672a\u63d0\u4f9b\u3002'}",expected_body is 身份认证信息未提供 
+2019-10-23 08:40:08,196 /Users/euming/Documents/PyCharm/InterAutoTest_W/utils/LogUtil.py ERROR 错误请求method： 
+2019-10-23 08:40:08,212 /Users/euming/Documents/PyCharm/InterAutoTest_W/utils/LogUtil.py ERROR 错误请求method： 
+2019-10-23 08:40:08,231 /Users/euming/Documents/PyCharm/InterAutoTest_W/utils/LogUtil.py ERROR 错误请求method： 
+2019-10-23 08:40:08,250 /Users/euming/Documents/PyCharm/InterAutoTest_W/utils/LogUtil.py ERROR 错误请求method： 
+2019-10-23 08:40:08,267 /Users/euming/Documents/PyCharm/InterAutoTest_W/utils/LogUtil.py ERROR 错误请求method： 
+2019-10-23 08:40:08,285 /Users/euming/Documents/PyCharm/InterAutoTest_W/utils/LogUtil.py ERROR 错误请求method： 
+2019-10-23 09:42:53,678 /Users/euming/Documents/PyCharm/InterAutoTest_W/utils/LogUtil.py INFO 报告地址 
+2019-10-23 09:46:12,878 /Users/euming/Documents/PyCharm/InterAutoTest_W/utils/LogUtil.py INFO 报告地址 
+2019-10-23 09:47:06,890 /Users/euming/Documents/PyCharm/InterAutoTest_W/utils/LogUtil.py INFO 报告地址 
+2019-10-23 09:48:55,967 /Users/euming/Documents/PyCharm/InterAutoTest_W/utils/LogUtil.py INFO 报告地址 
+2019-10-23 09:49:28,411 /Users/euming/Documents/PyCharm/InterAutoTest_W/utils/LogUtil.py INFO 报告地址 

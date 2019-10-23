@@ -1,0 +1,5 @@
+[2019-10-22 10:36:17,478][MainThread:4497964352][task_id:__main__][log_package.py:77][INFO][It works.]
+[2019-10-22 10:57:57,148][MainThread:4361960768][task_id:testcase.t_log.log_package][log_package.py:77][INFO][It works.]
+[2019-10-22 10:57:57,149][MainThread:4361960768][task_id:__main__][log_package_demo.py:19][INFO][中文测试开始...]
+[2019-10-22 10:58:36,677][MainThread:4607753536][task_id:testcase.t_log.log_package][log_package.py:77][INFO][It works.]
+[2019-10-22 10:58:36,678][MainThread:4607753536][task_id:__main__][log_package_demo.py:19][INFO][中文测试开始...]
