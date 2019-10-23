@@ -1,3 +1,4 @@
+# -*- coding:utf-8 -*-
 import logging
 from config import Conf
 import datetime, os

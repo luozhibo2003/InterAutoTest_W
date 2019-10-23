@@ -1,3 +1,4 @@
+# -*- coding:utf-8 -*-
 from config import Conf
 import os
 from utils.YamlUtil import YamlReader
